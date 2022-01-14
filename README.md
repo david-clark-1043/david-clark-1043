@@ -4,7 +4,7 @@ Below is my course work at Nashville Software School organized by week.
 
 ### Week 1 
 ------------------
-- [Martin's Aquarium](https://github.com/david-clark-1043/nss-aquarium) - Updated post-Week 1 with additional javascript functionality.
+- [Martin's Aquarium](https://github.com/david-clark-1043/nss-aquarium) - Updated post-Week 1 with additional javascript.
 - [Congressional Representative Page](https://github.com/david-clark-1043/nss-congressional-representative)
 
 ### Week 2
