@@ -1,4 +1,19 @@
-### Hi there 👋
+## David Clark
+
+Below is my course work at Nashville Software School organized by week.
+
+### Week 1 
+------------------
+- [Martin's Aquarium](https://github.com/david-clark-1043/nss-aquarium) - Updated post-Week 1 with additional javascript functionality.
+- [Congressional Representative Page](https://github.com/david-clark-1043/nss-congressional-representative)
+
+### Week 2
+-----------------
+- [Modern Farm](https://github.com/david-clark-1043/modern-farm)
+- [World's *Wurst* Website](https://github.com/david-clark-1043/worst-website-ever-group-1)
+- [Repo for the Javascript Functions Chapter](https://github.com/david-clark-1043/nss-functions)
+
+
 
 <!--
 **david-clark-1043/david-clark-1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
