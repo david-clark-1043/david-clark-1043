@@ -14,6 +14,8 @@ Below is my course work at Nashville Software School organized by week.
 - [Repo for the Javascript Functions Chapter](https://github.com/david-clark-1043/nss-functions)
 
 
+### Goal:
+Have this readme dynamically update.
 
 <!--
 **david-clark-1043/david-clark-1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
