@@ -14,6 +14,11 @@ Below is my course work at Nashville Software School organized by week.
 - [Repo for the Javascript Functions Chapter](https://github.com/david-clark-1043/nss-functions)
 - [Daily Journal](https://github.com/david-clark-1043/daily-journal)
 
+### Week 3
+---------------
+- [Dog Walkers](https://github.com/david-clark-1043/dog-walking)
+
+
 ### Goal:
 Have this readme dynamically update.
 
