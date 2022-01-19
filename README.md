@@ -12,7 +12,7 @@ Below is my course work at Nashville Software School organized by week.
 - [Modern Farm](https://github.com/david-clark-1043/modern-farm)
 - [World's *Wurst* Website](https://github.com/david-clark-1043/worst-website-ever-group-1)
 - [Repo for the Javascript Functions Chapter](https://github.com/david-clark-1043/nss-functions)
-- [Daiy Journal](https://github.com/david-clark-1043/daily-journal)
+- [Daily Journal](https://github.com/david-clark-1043/daily-journal)
 
 ### Goal:
 Have this readme dynamically update.
