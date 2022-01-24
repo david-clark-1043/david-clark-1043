@@ -17,6 +17,7 @@ Below is my course work at Nashville Software School organized by week.
 ### Week 3
 ---------------
 - [Dog Walkers](https://github.com/david-clark-1043/dog-walking)
+- [Dothard & Simbleton](https://github.com/david-clark-1043/dothard-simbleton)
 
 
 ### Goal:
