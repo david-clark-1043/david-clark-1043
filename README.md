@@ -19,6 +19,20 @@ Below is my course work at Nashville Software School organized by week.
 - [Dog Walkers](https://github.com/david-clark-1043/dog-walking)
 - [Dothard & Simbleton](https://github.com/david-clark-1043/dothard-simbleton)
 
+### Week 4
+--------------
+- [Kneel Diamonds](https://github.com/david-clark-1043/kneel-diamonds)
+- [State Fair](https://github.com/david-clark-1043/statefair)
+
+### Week 5
+-------------
+- [Exomine Marketplace](https://github.com/david-clark-1043/exomine-group-project-venus-voyagers)
+
+### Week 6
+------------
+- [Clowning Around](https://github.com/david-clark-1043/clowning-around)
+- [Sink Repair](https://github.com/david-clark-1043/sink-repair)
+
 
 ### Goal:
 Have this readme dynamically update.
