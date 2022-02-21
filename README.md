@@ -37,6 +37,8 @@ Below is my course work at Nashville Software School organized by week.
 ### Goal:
 Have this readme dynamically update.
 
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-clark-1043&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **david-clark-1043/david-clark-1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
