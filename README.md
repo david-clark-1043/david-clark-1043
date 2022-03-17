@@ -1,53 +1,25 @@
-## David Clark
+# David Clark
 
-Below is my course work at Nashville Software School organized by week.
+As an attorney, I became interested in coding through self-study of online MIT courses. After years of tinkering with some personal projects and finding ways to automate parts of my legal work, I decided to make the leap to a new career in tech though Nashville Software School. I love discovering new ways to do things and finding the best solution to a problem.
 
-### Week 1 
-------------------
-- [Martin's Aquarium](https://github.com/david-clark-1043/nss-aquarium) - Updated post-Week 1 with additional javascript.
-- [Congressional Representative Page](https://github.com/david-clark-1043/nss-congressional-representative)
+I am currently looking for a position as an Entry-Level Software Developer. If you have openings, please reach out.  
+[LinkedIn](https://www.linkedin.com/in/davidclark1043/) | Email: david.clark.1043@gmail.com
 
-### Week 2
------------------
-- [Modern Farm](https://github.com/david-clark-1043/modern-farm)
-- [World's *Wurst* Website](https://github.com/david-clark-1043/worst-website-ever-group-1)
-- [Repo for the Javascript Functions Chapter](https://github.com/david-clark-1043/nss-functions)
-- [Daily Journal](https://github.com/david-clark-1043/daily-journal)
+## Highlighted Work
 
-### Week 3
----------------
-- [Dog Walkers](https://github.com/david-clark-1043/dog-walking)
-- [Dothard & Simbleton](https://github.com/david-clark-1043/dothard-simbleton)
+### On The Hunt - Front-End Capstone
+This website allows users to create, share, and complete scavenger hunts. It was completed as my capstone project at the end of the Front-End (Javascript/React/HTML/CSS) portion of my work at Nashville Software School.  
+#### On the Hunt Links  
+- [Github Repo](https://github.com/david-clark-1043/on-the-hunt#readme)  
+- [Live Site](https://on-the-hunt-yev5h.ondigitalocean.app)  
 
-### Week 4
---------------
-- [Kneel Diamonds](https://github.com/david-clark-1043/kneel-diamonds)
-- [State Fair](https://github.com/david-clark-1043/statefair)
+### Nashville Kennels
+For this group project, we had to work within an established codebase. We gained good experience reading and understanding someone else's code and working with established functionality to extend features and fix bugs.
+#### Nashville Kennels Links
+- [Github Repo](https://github.com/david-clark-1043/react-kennels-the-dawg-pound)
 
-### Week 5
--------------
-- [Exomine Marketplace](https://github.com/david-clark-1043/exomine-group-project-venus-voyagers)
-
-### Week 6
-------------
-- [Clowning Around](https://github.com/david-clark-1043/clowning-around)
-- [Sink Repair](https://github.com/david-clark-1043/sink-repair)
-
-
-### Goal:
-Have this readme dynamically update.
-
-<!--
-**david-clark-1043/david-clark-1043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Truncheons & Flagons
+For this group project, we created a one-page site to track scoring in a fictional game, Truncheons & Flagons. The site also features team creation, player additions, and a leaderboard.
+#### Truncheons & Flagons Links
+- [Github Repo](https://github.com/david-clark-1043/truncheons-and-flagons-group-project-treacherous-truncheons#readme)
+- [Live Site](https://truncheons-and-flagons-q75dr.ondigitalocean.app/)
