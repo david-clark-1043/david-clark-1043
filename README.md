@@ -1,6 +1,6 @@
 # David Clark
 
-As an attorney, I became interested in coding through self-study of online MIT courses. After years of tinkering with some personal projects and finding ways to automate parts of my legal work, I decided to make the leap to a new career in tech though Nashville Software School. I love discovering new ways to do things and finding the best solution to a problem.
+I became interested in coding through self-study of online MIT courses. After years of tinkering with some personal projects and finding ways to automate parts of my legal work as an attorney, I decided to make the leap to a new career in tech though Nashville Software School. I’m someone who is naturally curious and who takes pride in continuing to learn. Through NSS, I was able to further explore my passion for technology and develop those skills to solve complex business problems.
 
 I am currently looking for a position as an Entry-Level Software Developer. If you have openings, please reach out.  
 [LinkedIn](https://www.linkedin.com/in/davidclark1043/) | Email: david.clark.1043@gmail.com
